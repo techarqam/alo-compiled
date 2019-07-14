@@ -1,0 +1,20 @@
+{
+  "projects": {
+    "default": "vlarp-alo"
+  },
+  "targets": {
+    "vlarp-alo": {
+      "hosting": {
+        "admin": [
+          "alo-admin"
+        ],
+        "vendor": [
+          "alo-vendor"
+        ],
+        "showcase": [
+          "vlarp-alo"
+        ]
+      }
+    }
+  }
+}
